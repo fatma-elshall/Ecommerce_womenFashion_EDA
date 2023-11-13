@@ -17,12 +17,14 @@ top costly brands.
 
 prands have minimum and max discount.
 
-which category has maximum options of women’s wear. 
+link dashboard in google data studio:
+
+https://lookerstudio.google.com/reporting/ed6b3108-1db8-46c3-bf37-970cf41e81fe
 
 
-![image](https://github.com/fatma-elshall/Ecommerce_womenFashion_EDA/assets/90958050/9fc9b071-0238-49d5-917f-d040a719a4d9)
 
-![image](https://github.com/fatma-elshall/Ecommerce_womenFashion_EDA/assets/90958050/d449fc95-15ba-41b1-9230-869603af3bcf)
 
+
+![Report screen](https://github.com/fatma-elshall/Ecommerce_womenFashion_EDA/assets/90958050/b26999e7-d9c4-46b9-9506-404b97b47fb2)
 
 
